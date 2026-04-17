@@ -1,13 +1,7 @@
 ---
 name: csv-analyst
-description: |
-  Analyzes, cleans and describes CSV files and tabular data.
-  Use this skill when the user says: "analyze this CSV", "what is in this file",
-  "clean the data", "find outliers", "describe the columns", "how many nulls",
-  "process this spreadsheet", "summarize this dataset", "data quality check",
-  "what columns do I have", "find duplicates", "data profiling". Detects data types,
-  null values, duplicates and statistical anomalies. Generates executive summaries
-  in plain text or markdown. Works with pandas, polars or SQL depending on context.
+description: Analyzes, cleans and describes CSV files and tabular data. Detects data types, null values, duplicates and outliers. Generates executive summaries in plain text or markdown.
+license: MIT
 ---
 
 # CSV Analyst
